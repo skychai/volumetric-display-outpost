@@ -3,6 +3,7 @@
 
 I researched some volumetric display projects, looked at rotational vs linear approaches.
 Decided to go with rotational, with panels arranged on both sides like this:
+
 <img width="302" height="212" alt="image" src="https://github.com/user-attachments/assets/855b48f7-7c3a-4c21-abae-07734ae6d563" />
 
 
