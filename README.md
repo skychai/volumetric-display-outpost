@@ -38,6 +38,10 @@ BOM:
 - [2x LED 32x64 matrix](https://www.amazon.com/waveshare-Full-Color-Adjustable-Brightness-Compatible/dp/B0BQYDLHY9/ref=sr_1_1?crid=2592P0IUPA9W8&dib=eyJ2IjoiMSJ9.wPjGB83y1dRO2t_g5qkiumo8Fj_Z3R5Naq5QkoC0S0AkXSxXhkmG_IxkEVAJaHGBo0_06rvBugrSvHY2SSkdqeLFRioIl8cc4TGHwOHrYZNVb81RMa7k83qLkyXMtVPAfC-fzdFIMla4yeYXsvnbl1WvYMzlMlinY_6Yy3NlEwXtz_NfeNGwZjadTm6G1X-cFCoPdKLiXDED8KNsanjHYsKp2wMjQnK-59eHTlo4gLs.D1lLhud8yF06obfTvU3Y9FTYWV6JAUkxT26dw7WFKK4&dib_tag=se&keywords=32x64+led+matrix&qid=1784326462&sprefix=32x64+led+matr%2Caps%2C270&sr=8-1)
 - [2x ESP32 w/ crimp breakout](https://www.amazon.com/AITRIP-ESP-WROOM-32-Bluetooth-ESP32-DevKitC-32-Development/dp/B0DNFN7FHD/ref=sr_1_4?crid=2ILVJO0ATP6MD&dib=eyJ2IjoiMSJ9.Y4sDvn282eRfLalsrj0oa1WqHtcW5nglFLoRqp7MEsW3y6hLA_Iop4-U_cHphZXrQ2rjFoDJ4cMQE43xKIVvVsB58f0CNLAM656c8ouBqOtjZIqDTXeeZ7X1U6Y8Lq44g-q5Pbxm5I9Q_Ea0U1rWk1S-4FRuqSf3g1WyMSa_DXIos1_TG25W_IDs0DvCRWGSXEXfLDmQ73Min9bSi1iZpBWwVJT27jg4mVSiq9OA6Jk.JAPPBebVVFisdPTKrh5nVqwQMi32ZAh3_NEyLmBvg8w&dib_tag=se&keywords=ESP32%2B2%2Bpack%2B38%2Bpin&qid=1784354453&sprefix=esp32%2B2%2Bpack%2B38%2Bpin%2Caps%2C112&sr=8-4&th=1)
 
-I also made a rough sketch of what all the components together will look like:
+I also made a very rough schematic of all the components:
+
 <img width="317" height="480" alt="image" src="https://github.com/user-attachments/assets/1d3dba58-c8eb-4ef1-9f5b-dbc5098a9383" />
 
+# Day 4 7/18/26: CAD ideas
+
+Today I started designing the physical mount that all the electronics will attach to and rotate upon. I plan to 3D print all of these structural pieces.
